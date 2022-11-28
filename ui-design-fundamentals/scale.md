@@ -11,9 +11,9 @@ When applying, a few things should be considered:
 
 ### Examples
 
-| Before                                  | After                                   |
-| --------------------------------------- | --------------------------------------- |
-| ![](<../.gitbook/assets/image (8).png>) | ![](<../.gitbook/assets/image (2).png>) |
-| ![](../.gitbook/assets/image.png)       | ![](<../.gitbook/assets/image (7).png>) |
-| ![](<../.gitbook/assets/image (4).png>) | ![](<../.gitbook/assets/image (3).png>) |
+| Before                                      | After                                       |
+| ------------------------------------------- | ------------------------------------------- |
+| ![](<../.gitbook/assets/image (8).png>)     | ![](<../.gitbook/assets/image (2) (1).png>) |
+| ![](<../.gitbook/assets/image (1).png>)     | ![](<../.gitbook/assets/image (7) (1).png>) |
+| ![](<../.gitbook/assets/image (4) (1).png>) | ![](<../.gitbook/assets/image (3) (1).png>) |
 
