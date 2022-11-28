@@ -1,14 +1,10 @@
----
-description: The empty areas in a user interface
----
-
 # ▫ White space
 
 ### Definition
 
 White space = the **empty areas** in a user interface. Known also as **negative space.** Everything around content and components.
 
-****<img src="../.gitbook/assets/image (1).png" alt="" data-size="original">****
+****<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="original">****
 
 ### When to apply?
 
