@@ -13,7 +13,7 @@ When applying, a few things should be considered:
 
 | Before                                      | After                                       |
 | ------------------------------------------- | ------------------------------------------- |
-| ![](<../.gitbook/assets/image (8).png>)     | ![](<../.gitbook/assets/image (2) (1).png>) |
-| ![](<../.gitbook/assets/image (1).png>)     | ![](<../.gitbook/assets/image (7) (1).png>) |
+| ![](<../.gitbook/assets/image (8).png>)     | ![](<../.gitbook/assets/image (2).png>)     |
+| ![](<../.gitbook/assets/image (6).png>)     | ![](<../.gitbook/assets/image (7) (1).png>) |
 | ![](<../.gitbook/assets/image (4) (1).png>) | ![](<../.gitbook/assets/image (3) (1).png>) |
 

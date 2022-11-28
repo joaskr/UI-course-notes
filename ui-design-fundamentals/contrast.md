@@ -6,7 +6,7 @@ Contrast helps **separate elements** from each other by adjusting colour, bright
 
 As a design principle, contrast is all about using opposites to **capture your audience’s attention** and draw the eye to key parts of the message.
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 ### When to apply?
 
