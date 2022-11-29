@@ -13,19 +13,19 @@ Recurring colors throughout a UI
 
 ### Color Picker Basics
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (3).png>)
 
 **Hue** - full color saturation - all the way up to the upper right\
-![](<../.gitbook/assets/image (16) (1).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 **Tint** - created by adding light - moving to the left side\
 ![](<../.gitbook/assets/image (10).png>)
 
 **Shade** - created by adding darkness - moving to the bottom\
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 **Tone** - created by adding grey - to anywhere in the middle\
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
 ### Color Schemes Types
 
