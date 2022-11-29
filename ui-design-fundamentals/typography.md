@@ -20,4 +20,4 @@
   * Adds visual hierarchy
   * Don't make too many words bold - use sparingly
   * Thin fonts may work on large font sizes and high contrast but can be illegible on smaller font sizes\
-    ![](<../.gitbook/assets/image (8).png>)
+    ![](<../.gitbook/assets/image (8) (2).png>)
