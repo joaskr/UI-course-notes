@@ -6,6 +6,6 @@ Using other design fundamentals to give priority to elements in the user interfa
 
 ### Examples
 
-![](<../.gitbook/assets/image (19).png>)![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (19).png>)![](<../.gitbook/assets/image (5) (1).png>)
 
-![](<../.gitbook/assets/image (17).png>)![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (17).png>)![](<../.gitbook/assets/image (2) (1).png>)

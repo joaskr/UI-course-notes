@@ -8,3 +8,6 @@
   * [💙 Colors](ui-design-fundamentals/colors.md)
   * [🔡 Typography](ui-design-fundamentals/typography.md)
   * [📈 Visual Hierarchy](ui-design-fundamentals/visual-hierarchy.md)
+  * [✅ Examples - finding mistakes](ui-design-fundamentals/examples-finding-mistakes.md)
+* [📝 Practical design](practical-design/README.md)
+  * [👌 The simplest layout](practical-design/the-simplest-layout.md)

@@ -16,7 +16,7 @@ Recurring colors throughout a UI
 ![](<../.gitbook/assets/image (1) (3).png>)
 
 **Hue** - full color saturation - all the way up to the upper right\
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
 **Tint** - created by adding light - moving to the left side\
 ![](<../.gitbook/assets/image (10).png>)

@@ -6,7 +6,7 @@
   * Wider tracking is used on titles, labels and watermarks
   * Usually, it's best to stick with the default tracking
   * Usage example:\
-    ![](<../.gitbook/assets/image (20).png>)![](../.gitbook/assets/image.png)
+    ![](<../.gitbook/assets/image (20).png>)![](<../.gitbook/assets/image (23).png>)
 * Leading (space between lines of text - pronounced with /e - leding/)
   * Should be consistent across similar elements
   * Example:\

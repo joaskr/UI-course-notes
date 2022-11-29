@@ -6,9 +6,9 @@ Alignment - provides **structure** and **flow** to a layout. Invisible horizonta
 
 ### Examples
 
-| Good alignment                              | Bad alignment                            |
-| ------------------------------------------- | ---------------------------------------- |
-| ![](<../.gitbook/assets/image (4).png>)     | ![](<../.gitbook/assets/image (18).png>) |
-| ![](<../.gitbook/assets/image (11).png>)    | ![](<../.gitbook/assets/image (13).png>) |
-| ![](<../.gitbook/assets/image (15).png>)    | ![](<../.gitbook/assets/image (9).png>)  |
-| ![](<../.gitbook/assets/image (5) (2).png>) | ![](<../.gitbook/assets/image (3).png>)  |
+| Good alignment                              | Bad alignment                                |
+| ------------------------------------------- | -------------------------------------------- |
+| ![](<../.gitbook/assets/image (4) (1).png>) | ![](<../.gitbook/assets/image (18) (1).png>) |
+| ![](<../.gitbook/assets/image (11).png>)    | ![](<../.gitbook/assets/image (13).png>)     |
+| ![](<../.gitbook/assets/image (15).png>)    | ![](<../.gitbook/assets/image (9).png>)      |
+| ![](<../.gitbook/assets/image (5) (2).png>) | ![](<../.gitbook/assets/image (3) (1).png>)  |
