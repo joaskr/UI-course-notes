@@ -1,7 +1,7 @@
 # 🖍 Figma basics
 
 New -> design file to create an empty draft\
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (6).png>)
 
 ### Tools
 
@@ -16,6 +16,8 @@ creates a "canvas" with presets, width and height can be changed&#x20;
 * Click "t" button and start typing
 * Click "t" button and left-click and drag
 
+Right-click on an object -> create component -> the outline will change to purple. After you duplicate it, every change on the original component will reflect in dupes.
+
 
 
 ### Keyboard keys
@@ -25,5 +27,6 @@ creates a "canvas" with presets, width and height can be changed&#x20;
   * double click - access element in a group&#x20;
 * shift while holding - moves element on a straight line
 * shift + r - show rules
-  * left click and drag on ruler to create a red helper line
+  * left click and drag on the ruler to create a red helper line
 * space to switch between hand cursor and pointer
+* hold alt while dragging to see padding info

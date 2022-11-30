@@ -11,4 +11,6 @@
   * [✅ Examples - finding mistakes](ui-design-fundamentals/examples-finding-mistakes.md)
 * [📝 Practical design](practical-design/README.md)
   * [👌 The simplest layout](practical-design/the-simplest-layout.md)
+  * [🔘 Buttons](practical-design/buttons.md)
+  * [🃏 Cards](practical-design/cards.md)
 * [🖍 Figma basics](figma-basics.md)

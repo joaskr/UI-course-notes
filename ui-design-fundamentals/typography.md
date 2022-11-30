@@ -10,7 +10,7 @@
 * Leading (space between lines of text - pronounced with /e - leding/)
   * Should be consistent across similar elements
   * Example:\
-    ![](<../.gitbook/assets/image (1).png>)
+    ![](<../.gitbook/assets/image (1) (1).png>)
 * Font styles (serif, sans serif, script)
   * Sans serif - very simple letter style, minimal decoration, often used on websites
   * Serif - decorations on letters, traditionally seen as professional

@@ -14,4 +14,4 @@ Create a layout using just 2 typographic elements and optionally one shape
 
 ### Example solutions
 
-![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (8).png>)![](<../.gitbook/assets/image (4).png>)![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (3) (3).png>)![](<../.gitbook/assets/image (8) (3).png>)![](<../.gitbook/assets/image (4) (2).png>)![](<../.gitbook/assets/image (7).png>)

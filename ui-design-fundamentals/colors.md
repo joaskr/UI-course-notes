@@ -22,7 +22,7 @@ Recurring colors throughout a UI
 ![](<../.gitbook/assets/image (10).png>)
 
 **Shade** - created by adding darkness - moving to the bottom\
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (3).png>)
 
 **Tone** - created by adding grey - to anywhere in the middle\
 ![](<../.gitbook/assets/image (17) (1).png>)
