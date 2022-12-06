@@ -13,4 +13,5 @@
   * [👌 The simplest layout](practical-design/the-simplest-layout.md)
   * [🔘 Buttons](practical-design/buttons.md)
   * [🃏 Cards](practical-design/cards.md)
+  * [🧭 Navigation](practical-design/navigation.md)
 * [🖍 Figma basics](figma-basics.md)

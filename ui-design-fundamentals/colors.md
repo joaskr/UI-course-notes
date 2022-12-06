@@ -19,7 +19,7 @@ Recurring colors throughout a UI
 ![](<../.gitbook/assets/image (16) (1).png>)
 
 **Tint** - created by adding light - moving to the left side\
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 **Shade** - created by adding darkness - moving to the bottom\
 ![](<../.gitbook/assets/image (6) (3).png>)

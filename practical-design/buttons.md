@@ -6,8 +6,8 @@ There are multiple ways to style a button. Consistency is key.
 
 ### Examples
 
-| Before                                   | After                                    | Mistakes                                         |
-| ---------------------------------------- | ---------------------------------------- | ------------------------------------------------ |
-| ![](<../.gitbook/assets/image (3).png>)  | ![](<../.gitbook/assets/image (8).png>)  | <ul><li>contrast</li><li>white space</li></ul>   |
-| ![](../.gitbook/assets/image.png)        | ![](<../.gitbook/assets/image (4).png>)  | <ul><li>white space</li><li>typography</li></ul> |
-| ![](<../.gitbook/assets/image (28).png>) | ![](<../.gitbook/assets/image (26).png>) | <ul><li>nothing wrong here</li></ul>             |
+| Before                                      | After                                       | Mistakes                                         |
+| ------------------------------------------- | ------------------------------------------- | ------------------------------------------------ |
+| ![](<../.gitbook/assets/image (3) (4).png>) | ![](<../.gitbook/assets/image (8).png>)     | <ul><li>contrast</li><li>white space</li></ul>   |
+| ![](<../.gitbook/assets/image (3).png>)     | ![](<../.gitbook/assets/image (4) (3).png>) | <ul><li>white space</li><li>typography</li></ul> |
+| ![](<../.gitbook/assets/image (28).png>)    | ![](<../.gitbook/assets/image (26).png>)    | <ul><li>nothing wrong here</li></ul>             |

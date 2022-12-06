@@ -18,6 +18,8 @@ creates a "canvas" with presets, width and height can be changed&#x20;
 
 Right-click on an object -> create component -> the outline will change to purple. After you duplicate it, every change on the original component will reflect in dupes.
 
+**Auto-layout**
+
 
 
 ### Keyboard keys
@@ -29,4 +31,5 @@ Right-click on an object -> create component -> the outline will change to purpl
 * shift + r - show rules
   * left click and drag on the ruler to create a red helper line
 * space to switch between hand cursor and pointer
+* ctrl+alt+k - create component
 * hold alt while dragging to see padding info
