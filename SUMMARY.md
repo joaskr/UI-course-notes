@@ -14,6 +14,7 @@
     * [🔘 Buttons](practical-design/elements/buttons.md)
     * [🃏 Cards](practical-design/elements/cards.md)
     * [🧭 Navigation](practical-design/elements/navigation.md)
+    * [✍ Form elements](practical-design/elements/form-elements.md)
   * [Layouts](practical-design/layouts/README.md)
     * [👌 The simplest layout](practical-design/layouts/the-simplest-layout.md)
     * [📃 Forms](practical-design/layouts/forms.md)
